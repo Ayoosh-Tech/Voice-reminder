@@ -1,0 +1,5 @@
+{
+  "name": "Voice Reminder Alarm",
+  "description": "A smart alarm app that speaks your reminders using AI voice synthesis.",
+  "requestFramePermissions": []
+}
